@@ -1,4 +1,5 @@
 #!/bin/bash
+#1
 
 RED="\e[31m"
 GREEN="\e[32m"
